@@ -15,6 +15,13 @@
       "when": 1752108480690,
       "tag": "0001_conscious_wildside",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752155475741,
+      "tag": "0002_fat_gorilla_man",
+      "breakpoints": true
     }
   ]
 }
